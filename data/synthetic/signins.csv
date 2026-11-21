@@ -1,0 +1,13 @@
+event_id,timestamp,user,role,app,result,observed_country,usual_country,device_managed
+E001,2026-11-21T08:00:00Z,maya,analyst,ticketing,success,US,US,true
+E002,2026-11-21T08:05:00Z,lee,admin,identity,success,US,US,true
+E003,2026-11-21T08:07:00Z,lee,admin,identity,failure,US,US,false
+E004,2026-11-21T08:12:00Z,lee,admin,identity,success,US,US,false
+E005,2026-11-21T08:20:00Z,maya,analyst,ticketing,success,US,US,false
+E006,2026-11-21T09:03:00Z,pat,admin,cloud,success,US,US,true
+E007,2026-11-21T09:07:00Z,pat,admin,cloud,success,CA,US,true
+E008,2026-11-21T09:10:00Z,pat,admin,cloud,failure,DE,US,false
+E009,2026-11-21T09:15:00Z,sam,viewer,reporting,success,US,US,true
+E010,2026-11-21T09:18:00Z,lee,admin,identity,success,RU,US,true
+E011,2026-11-21T09:20:00Z,alex,analyst,ticketing,success,GB,US,true
+E012,2026-11-21T09:25:00Z,pat,admin,cloud,success,US,US,true
